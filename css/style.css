@@ -60,6 +60,9 @@ nav ul li a{
     outline:none;
 }
 
+a{
+    text-decoration: none;
+}
 .active{
     font-weight: bold;
     color: #243b3b;
